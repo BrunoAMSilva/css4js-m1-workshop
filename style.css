@@ -72,5 +72,5 @@ main {
   padding: 24px 32px;
   margin-left: -32px;
   margin-top: 0;
-  width: max-content;
+  width: fit-content;
 }
